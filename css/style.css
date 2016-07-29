@@ -1,0 +1,59 @@
+body {
+  font-family: Montserrat,"Helvetica Neue",Helvetica,Arial,sans-serif;
+  font-size: 20px;
+  font-weight: 500px;
+}
+
+header{
+	background: #eee;
+	height: 1000px;
+	background-image: url('../img/slidepic.jpg');
+	background-repeat: no-repeat;
+	background-attachment: fixed;
+    background-position: center;
+	background-size: cover;
+
+}
+
+header {
+    
+}
+
+p {
+    line-height: 50px;
+}
+
+.navbar-default{
+	background-color: #50223c;
+}
+
+div.intro-text{
+	text-align: right;
+}
+
+#portfolio .portfolio-item .portfolio-link .caption {
+    background: rgba(188, 115, 88, 0.3);
+}
+
+section.success {
+    background: #bc565c;
+}
+
+hr.star-light:after {
+    background-color: #bc565c;
+}
+
+footer .footer-above {
+    background-color: #503a3e;
+}
+
+footer .footer-below {
+    background-color: #50223c;
+}
+a,
+a:hover,
+a:focus,
+a:active,
+a.active {
+    color: #ccc;
+}
